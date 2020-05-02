@@ -9,3 +9,6 @@
     </embed>
 </object>
 </div>
+
+<img src="https://vitaliidasaev.github.io/cv/img/ava.jpg"
+     style="position: fixed; z-index: 1; left: 30px; top: 30px; width: 200px; height: 200px; border-radius: 100%;">
